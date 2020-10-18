@@ -1,0 +1,12 @@
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\ServicePattern.dll.config
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\ServicePattern.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\ServicePattern.pdb
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\Data.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\EntityFramework.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\Data.pdb
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\EntityFramework.xml
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\obj\Debug\ServicePattern.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\ServicePattern\obj\Debug\ServicePattern.pdb

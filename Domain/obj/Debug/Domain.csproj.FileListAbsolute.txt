@@ -1,0 +1,10 @@
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\bin\Debug\Domain.dll.config
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\bin\Debug\Domain.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\bin\Debug\Domain.pdb
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\bin\Debug\EntityFramework.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\bin\Debug\EntityFramework.xml
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\obj\Debug\Domain.dll
+c:\users\gaaloul\documents\visual studio 2015\Projects\Federationtunisienne\Domain\obj\Debug\Domain.pdb
